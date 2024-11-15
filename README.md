@@ -2,6 +2,14 @@
 
 This repository demonstrates how to set up Continuous Integration and Continuous Deployment (CICD) to deploy your website from GitHub to a cPanel server automatically whenever changes are pushed to the `main` branch.
 
+
+TUTORIAL: [Watch On YouTube](https://www.youtube.com/watch?v=W70fWpcHMzc&t=650s)
+
+
+![Screenshot 2024-11-15 101229](https://github.com/user-attachments/assets/79c5e62f-b083-41e7-8ea9-f9f04baff6e7)
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
